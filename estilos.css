@@ -16,30 +16,18 @@ header{
     display: flex;
 }
 
-.logo{
-    color: white;
-    font-weight: bold;
+.navbar {
+    height: 80px;
 }
-
-.logo span{
-    color: #287CA5;
-}
-
-.logo a {
-    text-decoration: none;
+.nav-link {
     color: white;
 }
 
-.barra ul li{
-    list-style: none;
-    display: inline-block;
+.collapse {
+    display: flex;
+    justify-content: flex-end;
 }
 
-.barra a{
-    text-decoration: none;
-    color: white;
-    margin: 20px;
-}
 .barra a:hover{
     color: #287CA5;
 }
