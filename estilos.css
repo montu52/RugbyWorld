@@ -17,7 +17,7 @@ header{
 }
 
 .navbar {
-    height: 80px;
+    min-height: 80px;
 }
 
 .navbar-brand:hover {
@@ -49,6 +49,16 @@ main {
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+.card {
+    margin-top: 20px;
+    height: 420px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
 h2{
     text-align: center;
     color: #287CA5;
