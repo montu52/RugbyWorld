@@ -58,22 +58,6 @@ h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-article{
-    display: flex;
-    justify-content: space-between;
-    padding: 2%;
-}
-
-.bloque p{
-    width: 40%;
-}
-
-.guti {
-    display: flex;
-    text-align: left;
-    color: black;
-    font-size: xx-large;
-}
 
 article .rever{
     display: flex;
